@@ -25,7 +25,7 @@ _✨ AstrBot 批量权限管理插件 ✨_
 
 ### 方式一：从插件市场安装（推荐）
 
-在 AstrBot 的插件市场中搜索 `permission-manager`，点击安装即可。
+在 AstrBot 的插件市场中搜索 `astrbot_plugin_permission-manager`，点击安装即可。
 
 ### 方式二：手动安装
 
@@ -239,6 +239,7 @@ MIT License
 
 ## 声明：
 本插件使用ai编写
+
 
 
 
