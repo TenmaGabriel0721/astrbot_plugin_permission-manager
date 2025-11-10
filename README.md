@@ -237,6 +237,8 @@ git clone https://github.com/your-repo/permission-manager.git
 
 MIT License
 
-（本插件使用ai编写）
+## 声明：
+本插件使用ai编写
+
 
 
